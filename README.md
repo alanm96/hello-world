@@ -1,2 +1,3 @@
 # hello-world
-Hello World Repo
+Hello people!
+Tis me, I like turtles!
